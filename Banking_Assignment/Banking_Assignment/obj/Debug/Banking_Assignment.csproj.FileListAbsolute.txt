@@ -1,0 +1,13 @@
+C:\Users\mmehndiratta\source\repos\Banking_Assignment\Banking_Assignment\bin\Debug\Banking_Assignment.exe.config
+C:\Users\mmehndiratta\source\repos\Banking_Assignment\Banking_Assignment\bin\Debug\Banking_Assignment.exe
+C:\Users\mmehndiratta\source\repos\Banking_Assignment\Banking_Assignment\bin\Debug\Banking_Assignment.pdb
+C:\Users\mmehndiratta\source\repos\Banking_Assignment\Banking_Assignment\bin\Debug\DatabaseReference.dll
+C:\Users\mmehndiratta\source\repos\Banking_Assignment\Banking_Assignment\bin\Debug\DatabaseReference.pdb
+C:\Users\mmehndiratta\source\repos\Banking_Assignment\Banking_Assignment\obj\Debug\Banking_Assignment.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\source\repos\Banking_Assignment\Banking_Assignment\obj\Debug\Banking_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\source\repos\Banking_Assignment\Banking_Assignment\obj\Debug\Banking_Assignment.exe
+C:\Users\mmehndiratta\source\repos\Banking_Assignment\Banking_Assignment\obj\Debug\Banking_Assignment.pdb
+C:\Users\mmehndiratta\source\repos\Banking_Assignment\Banking_Assignment\bin\Debug\EntityFramework.dll
+C:\Users\mmehndiratta\source\repos\Banking_Assignment\Banking_Assignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mmehndiratta\source\repos\Banking_Assignment\Banking_Assignment\bin\Debug\EntityFramework.xml
+C:\Users\mmehndiratta\source\repos\Banking_Assignment\Banking_Assignment\bin\Debug\EntityFramework.SqlServer.xml

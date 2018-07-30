@@ -1,0 +1,6 @@
+C:\Users\mmehndiratta\source\repos\DatabaseReference\DatabaseReference\bin\Debug\DatabaseReference.dll
+C:\Users\mmehndiratta\source\repos\DatabaseReference\DatabaseReference\bin\Debug\DatabaseReference.pdb
+C:\Users\mmehndiratta\source\repos\DatabaseReference\DatabaseReference\obj\Debug\DatabaseReference.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\source\repos\DatabaseReference\DatabaseReference\obj\Debug\DatabaseReference.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\source\repos\DatabaseReference\DatabaseReference\obj\Debug\DatabaseReference.dll
+C:\Users\mmehndiratta\source\repos\DatabaseReference\DatabaseReference\obj\Debug\DatabaseReference.pdb
